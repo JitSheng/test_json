@@ -17,6 +17,8 @@
     }
   ],
   
-  "ble_uuid": ["testuuid"]
+  "bleuuid": [
+    "testuuid"
+  ],
 
 }
